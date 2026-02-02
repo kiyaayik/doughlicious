@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="id">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Doughlicious</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <header>
+      <h1>Doughlicious</h1>
+      <div class="language">
+        <button onclick="setLang('id')">Indonesia</button>
+        <button onclick="setLang('en')">English</button>
+        <button onclick="setLang('it')">Italiano</button>
+      </div>
+    </header>
+
+    <section class="hero">
+      <h2 id="subtitle">Pastry Segar Setiap Hari</h2>
+    </section>
+
+    <section class="content">
+      <h2 id="productTitle">Produk Favorit</h2>
+
+      <div class="products">
+        <div class="card">
+          <img
+            src="e:\ijas\burnt-basque-cheesecake-closeup-1024x1024.png"
+            alt="cheeky cheese"
+          />
+          <h3>Cheeky Cheese</h3>
+          <p id="d1">Creamy dan Lembut</p>
+          <button id="b1" onclick="order()">Pesan</button>
+        </div>
+
+        <div class="card">
+          <img src="e:\ijas\fudgybrownie.jpg" alt="Brownie" />
+          <h3>Oopsie Brownie</h3>
+          <p id="d2">Manis dan Chewy</p>
+          <button id="b2" onclick="order()">Pesan</button>
+        </div>
+
+        <div class="card">
+          <img src="e:\ijas\croissant.jpg" alt="Croissant" />
+          <h3>Flake It Easy</h3>
+          <p id="d3">Renyah dan Gurih</p>
+          <button id="b3" onclick="order()">Pesan</button>
+        </div>
+
+        <div class="card">
+          <img src="e:\ijas\Cream-Puffs-11s.jpg" />
+          <h3>Puff Pop</h3>
+          <p id="d4">Manis dan Creamy</p>
+          <button id="b4" onclick="order()">Pesan</button>
+        </div>
+
+        <div class="card">
+          <img src="e:\ijas\thai-milk-buns-4-1-714x1024.jpg" />
+          <h3>Bun Bun</h3>
+          <p id="d5">Manis dan Lembut</p>
+          <button id="b5" onclick="order()">Pesan</button>
+        </div>
+
+        <div class="card">
+          <img src="e:\ijas\tart berry.jpg" />
+          <h3>Berry Bubbly</h3>
+          <p id="d6">Segar dan Renyah</p>
+          <button id="b6" onclick="order()">Pesan</button>
+        </div>
+      </div>
+    </section>
+
+    <footer>
+      <p id="footer">📍 Bakery Kami • ☎ 0812-1962-4487</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
