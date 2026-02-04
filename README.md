@@ -62,7 +62,7 @@
         </div>
 
         <div class="card">
-          <img src="e:\ijas\tart berry.jpg" />
+          <img src="e:brownies.jpg" />
           <h3>Berry Bubbly</h3>
           <p id="d6">Segar dan Renyah</p>
           <button id="b6" onclick="order()">Pesan</button>
