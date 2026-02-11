@@ -15,52 +15,52 @@
       </div>
     </header>
 
-    <section class="hero">
+  <section class="hero">
       <h2 id="subtitle">Pastry Segar Setiap Hari</h2>
     </section>
 
-    <main class="content">
+  <main class="content">
       <h2 id="productTitle">Produk Favorit</h2>
 
-      <div class="products">
-        <div class="card">
-          <img src="cheescake.jpg"
-            alt="cheeky cheese"
+  <div class="products">
+         <div class="card">
+         <img src="cheesecake.jpg"
+         alt="cheeky cheese"
           />
           <h3>Cheeky Cheese</h3>
           <p id="d1">Creamy dan Lembut</p>
           <button id="b1" onclick="order()">Pesan</button>
         </div>
 
-        <div class="card">
+  <div class="card">
           <img src="brownies.jpg" alt="Brownie" />
           <h3>Oopsie Brownie</h3>
           <p id="d2">Manis dan Chewy</p>
           <button id="b2" onclick="order()">Pesan</button>
         </div>
 
-        <div class="card">
+  <div class="card">
           <img src="croissant.jpg" alt="Croissant" />
           <h3>Flake It Easy</h3>
           <p id="d3">Renyah dan Gurih</p>
           <button id="b3" onclick="order()">Pesan</button>
         </div>
 
-        <div class="card">
+  <div class="card">
           <img src="creampuff.puff.jpg" />
           <h3>Puff Pop</h3>
           <p id="d4">Manis dan Creamy</p>
           <button id="b4" onclick="order()">Pesan</button>
         </div>
 
-        <div class="card">
+  <div class="card">
           <img src="milkbun.jpg" />
           <h3>Bun Bun</h3>
           <p id="d5">Manis dan Lembut</p>
           <button id="b5" onclick="order()">Pesan</button>
         </div>
 
-        <div class="card">
+  <div class="card">
           <img src="berrytart.jpg" />
           <h3>Berry Bubbly</h3>
           <p id="d6">Segar dan Renyah</p>
@@ -69,11 +69,11 @@
       </div>
     </section>
 
-    <footer>
+<footer>
       <p id="footer">📍 Bakery Kami • ☎ 0812-1962-4487</p>
     </footer>
 
-    <script src="script.js"></script>
+  <script src="script.js"></script>
   </body>
 </html>
 
