@@ -25,7 +25,7 @@
       <div class="products">
         <div class="card">
           <img
-            src="e:\ijas\burnt-basque-cheesecake-closeup-1024x1024.png"
+            src="cheescake.jpg"
             alt="cheeky cheese"
           />
           <h3>Cheeky Cheese</h3>
@@ -34,21 +34,21 @@
         </div>
 
         <div class="card">
-          <img src="e:\ijas\fudgybrownie.jpg" alt="Brownie" />
+          <img src="brownies.jpg" alt="Brownie" />
           <h3>Oopsie Brownie</h3>
           <p id="d2">Manis dan Chewy</p>
           <button id="b2" onclick="order()">Pesan</button>
         </div>
 
         <div class="card">
-          <img src="e:\ijas\croissant.jpg" alt="Croissant" />
+          <img src="croissant.jpg" alt="Croissant" />
           <h3>Flake It Easy</h3>
           <p id="d3">Renyah dan Gurih</p>
           <button id="b3" onclick="order()">Pesan</button>
         </div>
 
         <div class="card">
-          <img src="e:\ijas\Cream-Puffs-11s.jpg" />
+          <img src="creampuff.jpg" />
           <h3>Puff Pop</h3>
           <p id="d4">Manis dan Creamy</p>
           <button id="b4" onclick="order()">Pesan</button>
