@@ -48,21 +48,21 @@
         </div>
 
         <div class="card">
-          <img src="creampuff.jpg" />
+          <img src="creampuff.puff.jpg" />
           <h3>Puff Pop</h3>
           <p id="d4">Manis dan Creamy</p>
           <button id="b4" onclick="order()">Pesan</button>
         </div>
 
         <div class="card">
-          <img src="e:\ijas\thai-milk-buns-4-1-714x1024.jpg" />
+          <img src="milkbun.jpg" />
           <h3>Bun Bun</h3>
           <p id="d5">Manis dan Lembut</p>
           <button id="b5" onclick="order()">Pesan</button>
         </div>
 
         <div class="card">
-          <img src="brownies.jpg" />
+          <img src="berrytart.jpg" />
           <h3>Berry Bubbly</h3>
           <p id="d6">Segar dan Renyah</p>
           <button id="b6" onclick="order()">Pesan</button>
