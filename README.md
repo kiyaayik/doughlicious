@@ -24,8 +24,7 @@
 
       <div class="products">
         <div class="card">
-          <img
-            src="cheescake.jpg"
+          <img src="cheescake.jpg"
             alt="cheeky cheese"
           />
           <h3>Cheeky Cheese</h3>
