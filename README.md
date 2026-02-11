@@ -31,35 +31,35 @@
         </div>
 
   <div class="card">
-          <img src="brownies.jpg" alt="Brownie" />
+          <img src="brownies.jpg" alt="Brownie"/>
           <h3>Oopsie Brownie</h3>
           <p id="d2">Manis dan Chewy</p>
           <button id="b2" onclick="order()">Pesan</button>
         </div>
 
   <div class="card">
-          <img src="croissant.jpg" alt="Croissant" />
+          <img src="croissant.jpg" alt="Croissant"/>
           <h3>Flake It Easy</h3>
           <p id="d3">Renyah dan Gurih</p>
           <button id="b3" onclick="order()">Pesan</button>
         </div>
 
   <div class="card">
-          <img src="creampuff.puff.jpg" alt="Puff Pop" />
+          <img src="creampuff.puff.jpg" alt="Puff Pop"/>
           <h3>Puff Pop</h3>
           <p id="d4">Manis dan Creamy</p>
           <button id="b4" onclick="order()">Pesan</button>
         </div>
 
   <div class="card">
-          <img src="milkbun.jpg" alt="Bun Bun" />
+          <img src="milkbun.jpg" alt="Bun Bun"/>
           <h3>Bun Bun</h3>
           <p id="d5">Manis dan Lembut</p>
           <button id="b5" onclick="order()">Pesan</button>
         </div>
 
   <div class="card">
-          <img src="berrytart.jpg" alt="Berry Bubbly" />
+          <img src="berrytart.jpg" alt="Berry Bubbly"/>
           <h3>Berry Bubbly</h3>
           <p id="d6">Segar dan Renyah</p>
           <button id="b6" onclick="order()">Pesan</button>
