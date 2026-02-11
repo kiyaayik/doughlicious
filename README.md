@@ -24,7 +24,7 @@
 
   <div class="products">
          <div class="card">
-         <img src="cheesecake.jpg" alt="cheeky cheese"/>
+         <img src="cheesecake.jpg" alt="Cheeky Cheese"/>
           <h3>Cheeky Cheese</h3>
           <p id="d1">Creamy dan Lembut</p>
           <button id="b1" onclick="order()">Pesan</button>
