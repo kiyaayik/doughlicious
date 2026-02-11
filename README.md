@@ -24,9 +24,7 @@
 
   <div class="products">
          <div class="card">
-         <img src="cheesecake.jpg"
-         alt="cheeky cheese"
-          />
+         <img src="cheesecake.jpg" alt="cheeky cheese"/>
           <h3>Cheeky Cheese</h3>
           <p id="d1">Creamy dan Lembut</p>
           <button id="b1" onclick="order()">Pesan</button>
@@ -47,21 +45,21 @@
         </div>
 
   <div class="card">
-          <img src="creampuff.puff.jpg" />
+          <img src="creampuff.puff.jpg" alt="Puff Pop" />
           <h3>Puff Pop</h3>
           <p id="d4">Manis dan Creamy</p>
           <button id="b4" onclick="order()">Pesan</button>
         </div>
 
   <div class="card">
-          <img src="milkbun.jpg" />
+          <img src="milkbun.jpg" alt="Bun Bun" />
           <h3>Bun Bun</h3>
           <p id="d5">Manis dan Lembut</p>
           <button id="b5" onclick="order()">Pesan</button>
         </div>
 
   <div class="card">
-          <img src="berrytart.jpg" />
+          <img src="berrytart.jpg" alt="Berry Bubbly" />
           <h3>Berry Bubbly</h3>
           <p id="d6">Segar dan Renyah</p>
           <button id="b6" onclick="order()">Pesan</button>
